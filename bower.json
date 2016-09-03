@@ -1,0 +1,21 @@
+{
+  "name": "react-blank",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Gonzalo Ayuso <gonzalo123@gmail.com> (https://gonzalo123.com/)"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "www/assets",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "react": "^15.3.1"
+  }
+}

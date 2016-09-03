@@ -1,0 +1,22 @@
+{
+  "name": "react-blank",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gonzalo Ayuso <gonzalo123@gmail.com> (https://gonzalo123.com/)",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-core": "^6.14.0",
+    "babel-loader": "^6.2.5",
+    "jsx-loader": "^0.13.2",
+    "source-map-loader": "^0.1.5",
+    "ts-loader": "^0.8.2"
+  },
+  "dependencies": {
+    "react": "^15.3.1",
+    "react-dom": "^15.3.1"
+  }
+}
